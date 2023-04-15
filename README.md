@@ -4,5 +4,5 @@ APS360 Team project about pothole localization from the University of Toronto
 # Contributors
 Jacob Johannsson  
 Richard Hanxu  
-Satvick Acharva  
+Satvick Acharya  
 Erfan Yeganehfar  
